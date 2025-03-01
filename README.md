@@ -35,7 +35,7 @@ With a background in **Data Science**, I combine problem-solving skills with a p
 
 - **LinkedIn**: [Akshat Choubey](https://linkedin.com/in/akshatchoubey)
 - **GitHub**: [AkshatChoubey](https://github.com/AkshatChoubey)
-- **Portfolio**: [Coming Soon!]
+- **Portfolio**: [Akshat Choubey](https://akshatchoubeyportfolio.netlify.app)
 
 ---
 
