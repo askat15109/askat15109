@@ -30,13 +30,7 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=askat15109&theme=dark" alt="askat15109" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/akshat-choubey-327260252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/askat15109/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat-choubey-327260252" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/akshatchoubey15109" target="blank"><img align="center" src="https://raw.githubusercontent.com/askat15109/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akshat15109" height="30" width="40" /></a>
-<a href="https://instagram.com/akshatchoubey31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
-</p>
-<br>
+
 
 
 ------
